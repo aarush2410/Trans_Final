@@ -1,0 +1,9 @@
+gradio
+python-dotenv
+langcodes
+language-data
+huggingface-hub
+sacrebleu
+torch
+transformers==3.5.1
+sentencepiece
